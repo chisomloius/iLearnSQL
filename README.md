@@ -1,2 +1,2 @@
-# image-classificatio-demo
-A image classification of sports personalities using openCV
+# Power BI demo
+A random collection of dashboard and reports from different datasets built using Power BI and Tableau
