@@ -2,7 +2,7 @@
 This repo will help you get a fast start mastering SQL. It is divided into three folders and three task-levels.
 
 https://th.bing.com/th/id/R.f05709777ad5cd5d08319076ec56b509?rik=P5yIkE0DTm1tnA&pid=ImgRaw&r=0
-![SQL](<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />)
+![SQL](<img src="https://giphy.com/embed/vISmwpBJUNYzukTnVx" width="200" height="200" />)
 
 
 ### Prerequisites
