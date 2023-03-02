@@ -26,10 +26,18 @@ For this course you'll need to have any of the following relational database man
 
 ### [level 0: Introduction and Queries](level-0)
 
-- Course overview
-- Introduction to GCP
-- Docker and docker-compose 
-- Running Postgres locally with Docker
+- [x] History
+- [x] Installations
+- Sql Engines
+- Data Definition Language
+- Data Manipulation Language
+- Data Types
+- Data Query Langauge
+- Data Query Language: Subqueries
+- Data Query Language: Table Constraints Managements
+- Exercises
+
+
 [More details](level-0)
 
 ### [level 1: Designs and Functions ](level-1)
