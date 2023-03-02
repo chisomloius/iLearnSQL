@@ -1,7 +1,7 @@
 # iLearnSQL
 This repo will help you get a fast start mastering SQL. It is divided into three folders and three task-levels.
 
-![SQL](<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="200" height="200" />)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="200" height="200" />
 
 
 ### Prerequisites
