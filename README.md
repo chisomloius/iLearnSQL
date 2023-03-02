@@ -1,62 +1,52 @@
 # iLearnSQL
-This repo will help you get a fast start mastering SQL. It is divided into three folders and three task-levels.
+Hi, welcome to this amazing resources here. A stepwise collection of topics for learning SQL. It is divided into three folders and three task-levels.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="200" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="400" />
 
 
 ### Prerequisites
-To get most out of this course you just need to get an SQL . Prior experience is not needed.
+To get most out of this course you just need to get an SQL. Prior experience is not needed.
 All the materials of the course are freely available, so you can replicate them easily 
 
 ## Tools 
 For this course you'll need to have any of the following relational database management systems software installed on your computer.
 
-- MSSQL (via [MSSQL](https://www.anaconda.com/products/individual))
-- MYSQL (via [MYSQL](https://www.anaconda.com/products/individual))
-- POSTGRESQL(via [POSTGRESQL](https://www.anaconda.com/products/individual))
-- SQLLITE (via [SQLLITE](https://www.anaconda.com/products/individual))
-- SYBASE (via [SYBASE](https://www.anaconda.com/products/individual))
+- MSSQL (via [Link](https://www.mysql.com/downloads/))
+- MYSQL (via [Link](https://aka.ms/ssmsfullsetup))
+- POSTGRESQL(via [Link](https://www.postgresql.org/download/))
+- SQLLITE (via [Link](https://sqlite.org/download.html))
 
 ## Learning Format
 
-- [Level 0: Introduction & Prerequisites](#week-1-introduction--prerequisites)
-- [Week 1: Data ingestion](#week-2-data-ingestion)
-- [Week 2: Data Warehouse](#week-3-data-warehouse)
+- [level 0: Introduction and Queries](#level-0)
+- [level 1: Designs and Functions ](#level-1)
+- [leek 2: Advanced Topics ](#level-2)
 
 ## Syllabus
 
-### [Week 1: Introduction & Prerequisites](week_1_basics_n_setup)
+### [level 0: Introduction and Queries](#level-0)
 
-* Course overview
-* Introduction to GCP
-* Docker and docker-compose 
-* Running Postgres locally with Docker
+- Course overview
+- Introduction to GCP
+- Docker and docker-compose 
+- Running Postgres locally with Docker
+[More details](#level-0)
 
-[More details](week_1_basics_n_setup)
+### [level 1: Designs and Functions ](#level-1)
 
-### [Week 2: Data ingestion](week_2_data_ingestion)
+- Course overview
+- Introduction to GCP
+- Docker and docker-compose 
+- Running Postgres locally with Docker
+[More details](#level-1)
 
-* Data Lake
-* Workflow orchestration
-* Setting up Airflow locally
-* Ingesting data to GCP with Airflow
-* Ingesting data to local Postgres with Airflow
-* Moving data from AWS to GCP (Transfer service)
-* Homework
+### [leek 2: Advanced Topics ](#level-2)
+- Course overview
+- Introduction to GCP
+- Docker and docker-compose 
+- Running Postgres locally with Docker
+[More details](#level-2)
 
-[More details](week_2_data_ingestion)
-
-### [Week 3: Data Warehouse](week_3_data_warehouse)
-
-* Data Warehouse
-* BigQuery
-* Partitoning and clustering
-* BigQuery best practices
-* Internals of BigQuery
-* Integrating BigQuery with Airflow
-* BigQuery Machine Learning
-
-[More details](week_3_data_warehouse)
 
 
 ## FAQ
