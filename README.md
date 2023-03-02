@@ -18,34 +18,34 @@ For this course you'll need to have any of the following relational database man
 
 ## Learning Format
 
-- [level 0: Introduction and Queries](#level-0)
-- [level 1: Designs and Functions ](#level-1)
-- [leek 2: Advanced Topics ](#level-2)
+- [level 0: Introduction and Queries](level-0)
+- [level 1: Designs and Functions ](level-1)
+- [leek 2: Advanced Topics ](level-2)
 
 ## Syllabus
 
-### [level 0: Introduction and Queries](#level-0)
+### [level 0: Introduction and Queries](level-0)
 
 - Course overview
 - Introduction to GCP
 - Docker and docker-compose 
 - Running Postgres locally with Docker
-[More details](#level-0)
+[More details](level-0)
 
-### [level 1: Designs and Functions ](#level-1)
+### [level 1: Designs and Functions ](level-1)
 
 - Course overview
 - Introduction to GCP
 - Docker and docker-compose 
 - Running Postgres locally with Docker
-[More details](#level-1)
+[More details](level-1)
 
-### [leek 2: Advanced Topics ](#level-2)
+### [leek 2: Advanced Topics ](level-2)
 - Course overview
 - Introduction to GCP
 - Docker and docker-compose 
 - Running Postgres locally with Docker
-[More details](#level-2)
+[More details](level-2)
 
 
 
