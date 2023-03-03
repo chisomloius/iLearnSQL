@@ -1,32 +1,30 @@
--- ## DATA MANIPULATION LANGUAGE
+-- ## DATA DEFINITION LANGUAGE (DDL)
 
-/* They are generally known by this key word:
+/* 
+Data Definition Language (DDL) commands are used to create 
 
-- INSERT
-- SELECT
-- UPDATE
-- DELETE
+- A Database 
+- A Table within a Database
+- A View
+- A stored procedure
 
-Also known as the CRUD operators for developers.
+Also they are simple identigy with the keyword "CREATE"
 */
 
 
 
 -- ### SYNTAX EXAMPLES
 
--- EXAMPLE WITH: SELECT
+-- TO CREATE SIMPLE DATABASE
+
+CREATE DATABASE iLearnDB;
+
+/* the above will create a database called iLearnDB */
+
+-- TO CREATE SIMPLE DATABASE
 
 
-/* Ex
-
-*/
-
--- EXAMPLE WITH: INSERT
-
-
-/* Ex
-
-*/
+/* Ex */
 
 -- EXAMPLE WITH: UPDATE
 
