@@ -2,7 +2,7 @@
 Hi, welcome to this amazing resources here. A stepwise collection of topics for learning SQL Part II.
 It is divided into nine notes, one exercise and solution to the exercise.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="300" />
 
 ### Prerequisites
 To get most out of this course you just need to get an SQL. Prior experience is not needed.
@@ -25,13 +25,13 @@ For this course you'll need to have any of the following relational database man
 
 ### [level 0: Designs and Functions](level-1)
 
-- [x] History [00](00-dql-IV-design.sql)
-- [x] Installations [01](01-dql-V-functions.sql)
-- [x] Sql Engines [02](02-dql-VI-functions.sql)
-- [x] Data Definition Language [03](03-dql-VII-functions.sql)
-- [x] Data Manipulation Language [04](04-dql-VIII-functions.sql)
-- [x] Data Types [05](05-dql-IX-functions.sql)
-- [x] Data Query Langauge [06](06-dql-X-functions.sql)
-- [x] Data Query Language: Subqueries [07](07-dql-XI-functions.sql)
-- [x] Data Query Language: Table Constraints Managements [08](08-dql-XII-functions.sql)
-- [x] Exercises [09](exercises.md)
+- [x] History [00](00-dcl.sql)
+- [x] Installations [01](01-dql-IV-functions-I.sql)
+- [x] Sql Engines [02](02-dql-V-functions-II.sql)
+- [x] Data Definition Language [03](03-dql-VI-functions-III.sql)
+- [x] Data Manipulation Language [04](04-dql-VII-functions-IV.sql)
+- [x] Data Types [05](05-dql-VIII-functions-V.sql)
+- [x] Data Query Langauge [06](06-dql-IX-functions-VI.sql)
+- [x] Data Query Language: Subqueries [07](07-dql-X-functions-VII.sql)
+- [x] Data Query Language: Table Constraints Managements [08](08-exercises.md)
+- [x] Exercises [09](09-exercise-answers.md)
