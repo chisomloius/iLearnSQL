@@ -1,6 +1,6 @@
 ## iLearnSQL - LEVEL-0
 Hi, welcome to this amazing resources here. A stepwise collection of topics for learning SQL Part I.
- It is divided into three folders and three task-levels.
+It is divided into nine notes, one exercise and solution to the exercise.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="300" />
 
@@ -31,7 +31,7 @@ For this course you'll need to have any of the following relational database man
 - [x] Data Definition Language [03](03-ddl.sql)
 - [x] Data Manipulation Language [04](04-dml.sql)
 - [x] Data Types [05](05-datatypes.md)
-- [x] Data Query Langauge [06](06-dql.sql)
-- [x] Data Query Language: Subqueries [07](07-dql-subqueries.sql)
+- [x] Data Query Langauge [06](06-dql-I-queries.sql)
+- [x] Data Query Language: Subqueries [07](07-dql-II-subqueries.sql)
 - [x] Data Query Language: Table Constraints Managements [08](08-dql-III-tablekeys.sql)
 - [x] Exercises [09](exercises.md)

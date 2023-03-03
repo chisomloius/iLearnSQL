@@ -15,3 +15,4 @@ To install POSTGRESQL follow the steps in the video [HERE](https://youtu.be/C_Ke
 
 ### SQLITE 
 To install MSSQL follow the steps [HERE](https://youtu.be/wXEZZ2JT3-k)
+E

@@ -1,8 +1,8 @@
 ## iLearnSQL - LEVEL-2
 Hi, welcome to this amazing resources here. A stepwise collection of topics for learning SQL Part III.
- It is divided into three folders and three task-levels.
+It is divided into nine notes, one exercise and solution to the exercise.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="300" />
 
 ### Prerequisites
 To get most out of this course you just need to get an SQL. Prior experience is not needed.

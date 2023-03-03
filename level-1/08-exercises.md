@@ -1,65 +1,65 @@
-## SQL EXERCISES LEVEL-0
+## SQL EXERCISES LEVEL-1
 
-### TASK 1
+### EXPLORE 1
 *Instructions*
 - Create a `Database` with your any name preferred name
-
-See Dataset for practice [here](#)
-See Answers for practice [here](09-exercise-answers.md)
-
-### TASK 2
-*Instructions*
 - Create a five different `Tables` within the above Database with your preferred name
 
+
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
 
-### TASK 3
+### EXPLORE 2
 *Instructions*
 - Create a View within the above Table
-
-See Dataset for practice [here](#)
+- Create a Procedure within the above Table
+See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
 
-### TASK 4
-*Instructions*
-- Create a Stored Procedure within the above Table
-
-See Dataset for practice [here](#)
-See Answers for practice [here](09-exercise-answers.md)
-
-### TASK 5
+### EXPLORE 3
 *Instructions*
 
 See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
 
-### TASK 6
+### EXPLORE 4
+*Instructions*
+
+See Dataset for practice [here]()
+See Answers for practice [here](09-exercise-answers.md)
+
+### EXPLORE 5
+*Instructions*
+
+See Dataset for practice [here]()
+See Answers for practice [here](09-exercise-answers.md)
+
+### EXPLORE 6
 *Instructions*
 
 See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
 
 
-### TASK 7
+### EXPLORE 7
 *Instructions*
 
 See Dataset for practice [here](09-exercise-answers.md)
 
 
-### TASK 8
+### EXPLORE 8
 *Instructions*
 
 See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
 
-### TASK 9
+### EXPLORE 9
 *Instructions*
 
 See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
 
-### TASK 10
+### EXPLORE 10
 *Instructions*
 
 See Dataset for practice [here]()

@@ -1,6 +1,6 @@
 ## iLearnSQL - LEVEL-1
 Hi, welcome to this amazing resources here. A stepwise collection of topics for learning SQL Part II.
- It is divided into three folders and three task-levels.
+It is divided into nine notes, one exercise and solution to the exercise.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="400" height="400" />
 
