@@ -1,0 +1,19 @@
+## SQL DATATYPES
+
+### GENERAL CATERGORISATION OF DATA TYPES
+
+
+[Readmore here]()
+### EXAMPLES IN WRITTEN QUERIES
+
+
+
+
+[Readmore here]()
+### EXAMPLES IN OTHER CASES
+
+
+[Readmore here]()
+### TABLES SUMMARY OF DATATYPES IN SQL
+
+[Readmore here]()
