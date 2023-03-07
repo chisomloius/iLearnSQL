@@ -24,7 +24,6 @@ The most common DDL keywords are:
 -- CREATE SYNTAX EXAMPLES
 
 -- This code below will create a **Database**, iLearnDB
-
 CREATE DATABASE iLearnDB;
 
 -- This code below will create a **Table**, usersLearn, within a database, iLearnDB
