@@ -15,8 +15,10 @@ The most common DDL keywords are:
 - "CREATE"
 - "ALTER"
 - "DROP"
- - "TRUNCATE"
+- "TRUNCATE"
 */
+---------------------------------------------------------------------------------------------
+
 
 ---------------------------------------------------------------------------------------------
 -- CREATE SYNTAX EXAMPLES
@@ -210,6 +212,8 @@ DROP TABLE iLearDB.employee, iLearDB.department;
 /*
 This code drop a multiple tables department within the iLearnDB
 */
+
+
 -- This code below will drop a **View**, usersLearn and add foreign key to it
 DROP PROCEDURE visitLogView
 
