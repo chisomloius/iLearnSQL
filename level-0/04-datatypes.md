@@ -36,57 +36,59 @@ CREATE TABLE MyUniqueNames (
 
 
 ### TABLES SUMMARY OF DATATYPES IN SQL
+Note that isn't an exjhaustive lsit but rahter a compliation of the kind of datatypes find within the popular DBMS
+
 |S.N|TYPE   |ALIAS  |
 |---|---    |----   |
-|1|bigint||
-|2|int||
-|3|decimal||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
-|16|||
-|17|||
-|18|||
-|19|||
-|20|||
-|21|||
-|22|||
-|23|||
-|24|||
-|25|||
-|26|||
-|27|||
-|28|||
-|30|||
-|31|||
-|32|||
-|33|||
-|34|||
-|35|||
-|36|||
-|37|||
-|38|||
-|39|||
-|40|||
-|41|||
-|42|||
-|43|||
-|44|||
-|45|||
-|46|||
-|47|||
-|48|||
-|49|||
-|50|||
+|1|int|NUMERIC|
+|2|bigint|NUMERIC|
+|3|smallint|NUMERIC|
+|4|tinyint|NUMERIC|
+|5|bit|NUMERIC|
+|6|money|NUMERIC|
+|7|smallmoney|NUMERIC|
+|8|real|NUMERIC|
+|9|float|NUMERIC|
+|10|decimal|NUMERIC|
+|11|serial|NUMERIC|
+|12|smallserial|NUMERIC|
+|13|bigserial|NUMERIC|
+|14|decimal|NUMERIC|
+|15|numeric|NUMERIC|
+|16|char|STRING|
+|17|varchar|STRING|
+|18|nvarchar|STRING|
+|19|boolean|STRING|
+|20|byte hex|STRING|
+|21|byte escape|STRING|
+|22|tvector|STRING|
+|23|tsquery|STRING|
+|24|text|STRING|
+|25|ntext|STRING|
+|26|blob|STRING|
+|27|binary|STRING|
+|28|varbinarySTRING|
+|30|nonbinary|STRING|
+|31|date|DATE/DATETIME|
+|32|time|DATE/DATETIME|
+|33|datatime|DATE/DATETIME|
+|34|timestamp|DATE/DATETIME|
+|35|year|DATE/DATETIME|
+|36|datetimeoffset|DATE/DATETIME|
+|37|smalldatetime|DATE/DATETIME|
+|38|timezones|DATE/DATETIME|
+|39|interval input|DATE/DATETIME|
+|40|internal output|DATE/DATETIME|
+|41|spatial geometry types|OTHERS|
+|42|spatial geography types|OTHERS|
+|43|array|OTHERS|
+|44|json|OTHERS|
+|45|image|OTHERS|
+|46|xml|OTHERS|
+|47|cursor|OTHERS|
+|48|composite|OTHERS|
+|49|range|OTHERS|
+|50|domain|OTHERS|
 
 
 [Readmore here]()
