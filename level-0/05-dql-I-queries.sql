@@ -17,7 +17,7 @@
 - SELECT INTO QUERIES
 
 |S/N|ORDER OF WRITING|ORDER OF EXECUTION|
-|--|---              |-----             |
+|--|---|-----|
 |1|Select|From|
 |2|Top|Where|
 |3|Distinct|Group by|
