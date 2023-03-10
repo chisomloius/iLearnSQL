@@ -16,6 +16,8 @@
 - CASE QUERIES
 - SELECT INTO QUERIES
 
+*/
+
 |S/N|ORDER OF WRITING|ORDER OF EXECUTION|
 |--|---|-----|
 |1|Select|From|
@@ -31,7 +33,7 @@
 |11|Limit|Limit|
 
 All this queries are selcted as the most common types of queries
-*/
+
 ---------------------------------------------------------------------------------------------
 
 
