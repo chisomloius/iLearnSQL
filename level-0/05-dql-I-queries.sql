@@ -19,8 +19,6 @@
 */
 
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- SIMPLE CLAUSE QUERIES EXAMPLES
 
@@ -116,9 +114,13 @@ FROM usersLearn
 ORDER BY users_id
 OFFSET 50 ROWS
 
+/*
+The OFFSET clause is the mandatory clause in the combination and follows the ORDER BY clause. 
+The FETCH clause is optional and follows the OFFSET clause. Both the clauses take the number of rows as an argument. 
+The number of rows specified with the OFFSET clause indicates the number of rows that must be skipped in the resultset
+ or the number of rows after which the resultset should begin.
+*/
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- WHERE CLAUSE QUERIES EXAMPLES
 -- This code below will return records where data is greater than the conditions in the **TABLE** usersLearn
@@ -143,8 +145,75 @@ DELETE FROM usersLearn
 WHERE age=302
 
 ---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+-- LIKE CLAUSE QUERIES EXAMPLES
+--   using % to list customer comments from the customers table which begin with the letter ‘w’.
+SELECT * 
+FROM customers 
+WHERE customer_comment LIKE 'w%'
+
+-- 
+SELECT * 
+FROM customers 
+WHERE customer_email LIKE '%@gmail.com'
+
+--
+SELECT * 
+FROM customers 
+WHERE first_name LIKE '_a%'
+
+-- 
+SELECT * 
+FROM customers 
+WHERE first_name LIKE '[acl]%'
+
+--
+SELECT * 
+FROM customers 
+WHERE first_name LIKE '[a-l]%'
+
+--
+SELECT * 
+FROM customers 
+WHERE first_name LIKE '[^acl]%';
+
+--
+SELECT * 
+FROM customers 
+WHERE first_name LIKE '[^a-l]%';
+
+--
+SELECT * 
+FROM customers 
+WHERE customer_comment LIKE ('%15!%%') ESCAPE '!';
+
+--
+SELECT * 
+FROM customers 
+WHERE customer_email NOT LIKE '%gmail.com';
+
+-- 
+UPDATE customers 
+SET customer_comment=NULL 
+WHERE customer_email like '%yahoo%';
+
+--
+DELETE 
+FROM customers 
+WHERE customer_email like '%yahoo%';
 
 
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+-- AND/OR/NOR CLAUSE QUERIES EXAMPLES
+-- 
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+-- IN CLAUSE QUERIES EXAMPLES
+-- 
+
+---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 -- GROUP BY CLAUSE QUERIES EXAMPLES
 -- This code below will GROUP the records by locations, **TABLE** usersLearn
@@ -167,25 +236,21 @@ names should be mentioned in the GROUP BY clause
 */
 
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- HAVING CLAUSE QUERIES EXAMPLES
 -- This code below will output users from the cities where the order size was more than 10 in the **TABLE** usersLearn
-SELECT customer_city, max(items_ordered) largest_oder 
-FROM customers 
-GROUP BY customer_city 
-HAVING max(items_ordered) > 10;
+SELECT users_city, max(users_order) largest_order 
+FROM usersLearn 
+GROUP BY users_city 
+HAVING max(users_order) > 10;
 
---
-
---
-
---
+-- This code below will count is not equal to 5 using HAVING and outputs only those rows which satisfies the condition in the **TABLE** usersLearn
+SELECT users_city, max(users_order) largest_order 
+FROM usersLearn
+GROUP BY users_city 
+HAVING count(users_order) <> 5;
 
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- ORDER BY CLAUSE QUERIES EXAMPLES
 -- This code below will ORDER the records by age in ASCENDING ORDER, which is the default order **TABLE** usersLearn
@@ -209,33 +274,9 @@ FROM usersLearn
 GROUP BY code;
 
 ---------------------------------------------------------------------------------------------
-
-
----------------------------------------------------------------------------------------------
--- LIKE CLAUSE QUERIES EXAMPLES
---
-
---
----------------------------------------------------------------------------------------------
-
-
----------------------------------------------------------------------------------------------
--- AND/OR/NOR CLAUSE QUERIES EXAMPLES
---
-
----------------------------------------------------------------------------------------------
-
-
----------------------------------------------------------------------------------------------
--- IN CLAUSE QUERIES EXAMPLES
--- 
-
----------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- CASE CLAUSE QUERIES EXAMPLES
--- 
+-- This code below will populate a new  **TABLE**, with all existing columns in usersLearn and produce usersLearn1
 SELECT CASE DATEPART(WEEKDAY, GETDATE())     
             WHEN 1 THEN 'Sunday'     
             WHEN 2 THEN 'Monday'     
@@ -247,8 +288,6 @@ SELECT CASE DATEPART(WEEKDAY, GETDATE())
         END
 
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- SELECT INTO CLAUSE QUERIES EXAMPLES
 -- This code below will populate a new  **TABLE**, with all existing columns in usersLearn and produce usersLearn1
@@ -281,3 +320,5 @@ the existing table.
 A SELECT INTO statement is a standalone SQL statement which cannot be appended into another SQL statement like 
 INSERT, UPDATE, DELETE, SELECT etc. However, it can be combined with a JOIN or UNION while creating a new table using multiple tables.
 */
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------

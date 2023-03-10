@@ -18,8 +18,6 @@ The most common DDL keywords are:
 - "TRUNCATE"
 */
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- CREATE SYNTAX EXAMPLES
 
@@ -101,9 +99,6 @@ AUTHORIZATION Owner
 This code create a schema called vls and grant SELECT access to user1 but deny SELECT access to user2
 */
 ---------------------------------------------------------------------------------------------
-
-
-
 ---------------------------------------------------------------------------------------------
 -- ALTER SYNTAX EXAMPLES
 
@@ -180,8 +175,6 @@ TRANSFER dbo.vls_Staging;
 This code alter the position of vls and transfer it to another database with the name vls_staging
 */
 ---------------------------------------------------------------------------------------------
-
-
 ---------------------------------------------------------------------------------------------
 -- DROP SYNTAX EXAMPLES
 
@@ -236,10 +229,7 @@ DROP SCHEMA vls
 This code wil first drop the table created within the schema and then drop the schema
 /
 ---------------------------------------------------------------------------------------------
-
-
-
------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 -- USING TSQL COMMAND OR CMD 
 
 CREATE DATABASE [iLearnDB]  
