@@ -1,6 +1,6 @@
 -- ## DATA MANIPULATION LANGUAGE
 
-/* The major queries are:
+/* The major queries types are:
 
 - SIMPLE QUERIES
 - ALIAS QUERIES
@@ -15,6 +15,20 @@
 - IN QUERIES
 - CASE QUERIES
 - SELECT INTO QUERIES
+
+|S/N|ORDER OF WRITING|ORDER OF EXECUTION|
+|--|---              |-----             |
+|1|Select|From|
+|2|Top|Where|
+|3|Distinct|Group by|
+|4|From|Having|
+|5|Where|Select|
+|6|Group by|Window|
+|7|Having|QUALIFY|
+|8|Order by|Distinct|
+|9|Second|Order by|
+|10|QUALIFY|Top|
+|11|Limit|Limit|
 
 All this queries are selcted as the most common types of queries
 */
@@ -165,6 +179,24 @@ ORDER BY locations,
 If you are specifying more columns in the select expression but not specified in the aggregate function then those column 
 names should be mentioned in the GROUP BY clause
 */
+
+---------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------
+-- HAVING CLAUSE QUERIES EXAMPLES
+-- This code below will output users from the cities where the order size was more than 10 in the **TABLE** usersLearn
+SELECT customer_city, max(items_ordered) largest_oder 
+FROM customers 
+GROUP BY customer_city 
+HAVING max(items_ordered) > 10;
+
+--
+
+--
+
+--
+
 ---------------------------------------------------------------------------------------------
 
 
@@ -190,14 +222,6 @@ SELECT code, count(*)
 FROM usersLearn
 GROUP BY code;
 
----------------------------------------------------------------------------------------------
-
-
----------------------------------------------------------------------------------------------
--- HAVING CLAUSE QUERIES EXAMPLES
---
-
---
 ---------------------------------------------------------------------------------------------
 
 
