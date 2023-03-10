@@ -24,11 +24,11 @@ CREATE TABLE usersLearn (
 INSERT INTO usersLearn (Description) 
 VALUES ('Hello World')
 
--- To insert multiple records
+-- This code below will ADD/INSRT multiple records to a **TABLE**, usersLearn
 INSERT INTO usersLearn (Description)
 VALUES 
-('Hello World'),
-('Emergency World')
+        ('Hello World'),
+        ('Emergency World')
 ---------------------------------------------------------------------------------------------
 
 

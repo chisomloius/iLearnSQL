@@ -2,55 +2,53 @@
 
 
 ### SOLUTION 1
-*Instructions*
-- Create a `Database` with your any name preferred name
+*solutions*
+- Create a five differnt `Databases` with your preferred name and query style
 
 
 
 ### SOLUTION 2
-*Instructions*
+*solutions*
 - Create a five different `Tables` within the above Database with your preferred name
 
 
 
 ### SOLUTION 3
-*Instructions*
-- Create a View within the above Table
+*solutions*
+- Create five different `Views` within your preferred Database/Table your created and query style
 
 
 
 ### SOLUTION 4
-*Instructions*
-- Create a Stored Procedure within the above Table
-
-
+*solutions*
+- Create five different `Stored Procedures` within your preferred Database/Table your created and query style
 
 ### SOLUTION 5
-*Instructions*
+*solutions*
 
 
 
 ### SOLUTION 6
-*Instructions*
+*solutions*
 
 
 
 
 ### SOLUTION 7
-*Instructions*
+*solutions*
 
 
 
 
 ### SOLUTION 8
-*Instructions*
+*solutions*
 
 
 
 ### SOLUTION 9
-*Instructions*
+*solutions*
 
 
 
 ### SOLUTION 10
-*Instructions*
+*solutions*

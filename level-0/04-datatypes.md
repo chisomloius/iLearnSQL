@@ -67,7 +67,7 @@ Note that isn't an exjhaustive lsit but rahter a compliation of the kind of data
 |25|ntext|STRING|
 |26|blob|STRING|
 |27|binary|STRING|
-|28|varbinarySTRING|
+|28|varbinary|STRING|
 |30|nonbinary|STRING|
 |31|date|DATE/DATETIME|
 |32|time|DATE/DATETIME|
