@@ -11,7 +11,7 @@
 - ORDER BY QUERIES
 - HAVING QUERIES
 - LIKE QUERIES
-- AND/OR/NOR QUERIES
+- LOGIC (OR/AND/NOT/NULL) QUERIES
 - IN QUERIES
 - CASE QUERIES
 - SELECT INTO QUERIES
@@ -147,67 +147,77 @@ WHERE age=302
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 -- LIKE CLAUSE QUERIES EXAMPLES
---   using % to list customer comments from the customers table which begin with the letter ‘w’.
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
-WHERE customer_comment LIKE 'w%'
+FROM usersLearn
+WHERE users_comment LIKE 'w%'
 
--- 
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
-WHERE customer_email LIKE '%@gmail.com'
+FROM usersLearn 
+WHERE users_email LIKE '%@gmail.com'
 
---
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
+FROM usersLearn 
 WHERE first_name LIKE '_a%'
 
--- 
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
-WHERE first_name LIKE '[acl]%'
+FROM usersLearn 
+WHERE names LIKE '[acl]%'
 
---
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
-WHERE first_name LIKE '[a-l]%'
+FROM usersLearn 
+WHERE names LIKE '[a-l]%'
 
---
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
+FROM usersLearn 
 WHERE first_name LIKE '[^acl]%';
 
---
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
+FROM usersLearn 
 WHERE first_name LIKE '[^a-l]%';
 
---
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 SELECT * 
-FROM customers 
+FROM usersLearn 
 WHERE customer_comment LIKE ('%15!%%') ESCAPE '!';
 
---
-SELECT * 
-FROM customers 
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.T * 
+FROM usersLearn 
 WHERE customer_email NOT LIKE '%gmail.com';
 
--- 
-UPDATE customers 
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
+UPDATE usersLearn 
 SET customer_comment=NULL 
 WHERE customer_email like '%yahoo%';
 
---
+-- This code below will user % to list customer comments from the usersLearn table which begin with the letter ‘w’.
 DELETE 
-FROM customers 
+FROM usersLearn 
 WHERE customer_email like '%yahoo%';
 
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
--- AND/OR/NOR CLAUSE QUERIES EXAMPLES
+-- AND/OR/NOT/NULL CLAUSE QUERIES EXAMPLES
 -- 
 
+
+--
+
+
+--
+
+
+--
+
+
+--
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 -- IN CLAUSE QUERIES EXAMPLES

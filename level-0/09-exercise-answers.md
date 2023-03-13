@@ -25,30 +25,31 @@
 
 ### SOLUTION 5
 *solutions*
-
+- Write five Query with `WITH SELECT, FROM AND LIMIT` with your preferred style using the (data)[]
 
 
 ### SOLUTION 6
 *solutions*
-
+- Write five Query with `GROUPBY, ORDERBY, HAVING KEY WORDS` with your preferred style using the (data)[]
 
 
 
 ### SOLUTION 7
 *solutions*
-
+- Write five Query with `LIKE/IN KEY WORDS` with your preferred style using the (data)[]
 
 
 
 ### SOLUTION 8
 *solutions*
-
+- Write five Query with `OR/AND/NOT/NULL KEY WORDS` with your preferred style using the (data)[]
 
 
 ### SOLUTION 9
 *solutions*
-
+- Write five CASE `Query` with your preferred style using the (data)[]
 
 
 ### SOLUTION 10
 *solutions*
+- Who are the five most important `Contributors` to SQL

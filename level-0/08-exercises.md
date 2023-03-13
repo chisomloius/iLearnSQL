@@ -30,12 +30,14 @@ See Answers for practice [here](09-exercise-answers.md)
 
 ### TASK 5
 *Instructions*
+- Write five Query with `WITH SELECT, FROM AND LIMIT` with your preferred style using the data provided below
 
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
 
 ### TASK 6
 *Instructions*
+- Write five Query with `GROUPBY, ORDERBY, HAVING KEY WORDS` with your preferred style using the data provided below
 
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
@@ -43,6 +45,7 @@ See Answers for practice [here](09-exercise-answers.md)
 
 ### TASK 7
 *Instructions*
+- Write five Query with `LIKE/IN KEY WORDS` with your preferred style using the data provided below
 
 See Dataset for practice [here](#)
 See Dataset for practice [here](09-exercise-answers.md)
@@ -50,6 +53,7 @@ See Dataset for practice [here](09-exercise-answers.md)
 
 ### TASK 8
 *Instructions*
+- Write five Query with `OR/AND/NOT/NULL KEY WORDS` with your preferred style using the data provided below
 
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
@@ -57,6 +61,7 @@ See Answers for practice [here](09-exercise-answers.md)
 
 ### TASK 9
 *Instructions*
+- Write five Query with `CASE KEY WORDS` with your preferred style using the data provided below
 
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
@@ -64,6 +69,7 @@ See Answers for practice [here](09-exercise-answers.md)
 
 ### TASK 10
 *Instructions*
+- Who are the five most important `Contributors` to SQL
 
 See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
