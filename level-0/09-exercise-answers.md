@@ -42,14 +42,14 @@
 
 ### SOLUTION 8
 *solutions*
-- Write five Query with `OR/AND/NOT/NULL KEY WORDS` with your preferred style using the (data)[]
+- Write five Query with `OR/AND/NOT KEY WORDS` with your preferred style using the (data)[]
 
 
 ### SOLUTION 9
 *solutions*
-- Write five CASE `Query` with your preferred style using the (data)[]
+- Write five Query with `CASE KEY WORDS`with your preferred style using the (data)[]
 
 
 ### SOLUTION 10
 *solutions*
-- Who are the five most important `Contributors` to SQL
+- Write five `SubQueries` with your preferred style using the (data)[]

@@ -53,7 +53,7 @@ See Dataset for practice [here](09-exercise-answers.md)
 
 ### TASK 8
 *Instructions*
-- Write five Query with `OR/AND/NOT/NULL KEY WORDS` with your preferred style using the data provided below
+- Write five Query with `OR/AND/NOT KEY WORDS` with your preferred style using the data provided below
 
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
@@ -69,7 +69,7 @@ See Answers for practice [here](09-exercise-answers.md)
 
 ### TASK 10
 *Instructions*
-- Who are the five most important `Contributors` to SQL
+- Write five `SubQueries` with your preferred style using the (data)[]
 
 See Dataset for practice [here]()
 See Answers for practice [here](09-exercise-answers.md)
