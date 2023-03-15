@@ -1,37 +1,37 @@
 ## SQL EXERCISES LEVEL-2
 
-### EXPLORE 1
+### TASK 1
 *Instructions*
-- Create a `Database` with your any name preferred name
-- Create a five different `Tables` within the above Database with your preferred name
-
+- Create a five differnt `Database` with your preferred name and query style
 
 See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
 
-### EXPLORE 2
+### TASK 2
 *Instructions*
-- Create a View within the above Table
-- Create a Procedure within the above Table
-See Dataset for practice [here]()
+- Create five different `Tables` within your preferred Database your created and query style
+
+See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
 
-### EXPLORE 3
+### TASK 3
 *Instructions*
+- Create five different `Views` within your preferred Database/Table your created and query style
 
-See Dataset for practice [here]()
+See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
 
-### EXPLORE 4
+### TASK 4
 *Instructions*
+- Create five different `Stored Procedure` within your preferred Database/Table your created and query style
 
-See Dataset for practice [here]()
+See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
 
-### EXPLORE 5
+### TASK 5
 *Instructions*
+- Write five Query with `WITH SELECT, FROM AND LIMIT` with your preferred style using the data provided below
 
-See Dataset for practice [here]()
+See Dataset for practice [here](#)
 See Answers for practice [here](09-exercise-answers.md)
-
 

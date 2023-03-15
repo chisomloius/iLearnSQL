@@ -72,15 +72,15 @@ Note that isn't an exjhaustive lsit but rahter a compliation of the kind of data
 |31|date|DATE/DATETIME|
 |32|time|DATE/DATETIME|
 |33|datatime|DATE/DATETIME|
-|34|timestamp|DATE/DATETIME|
-|35|year|DATE/DATETIME|
+|34|datatimeF2|DATE/DATETIME|
+|35|timestamp|DATE/DATETIME|
 |36|datetimeoffset|DATE/DATETIME|
 |37|smalldatetime|DATE/DATETIME|
 |38|timezones|DATE/DATETIME|
 |39|interval input|DATE/DATETIME|
 |40|internal output|DATE/DATETIME|
-|41|spatial geometry types|OTHERS|
-|42|spatial geography types|OTHERS|
+|41|spatial types|OTHERS|
+|42|uniqueidentifier|OTHERS|
 |43|array|OTHERS|
 |44|json|OTHERS|
 |45|image|OTHERS|

@@ -1,4 +1,4 @@
--- ## DATA MANIPULATION LANGUusers_age
+-- ## DATA QUERY LANGUAGE: SIMPLE QUERIES
 
 /* The major queries types are:
 
