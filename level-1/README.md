@@ -25,7 +25,7 @@ For this course you'll need to have any of the following relational database man
 
 ### [level 0: Designs and Functions](level-1)
 
-- [x] History [00](00-dcl.sql)
+- [x] History [00](00-dql-IV-functions-I-maths.sql)
 - [x] Installations [01](01-dql-IV-functions-I.sql)
 - [x] Sql Engines [02](02-dql-V-functions-II.sql)
 - [x] Data Definition Language [03](03-dql-VI-functions-III.sql)
