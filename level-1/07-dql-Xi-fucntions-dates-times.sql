@@ -1,14 +1,13 @@
--- ## TABLE FUNCTIONS IN QUERY
+-- ## DATETYPE CONVERSION FUNCTIONS IN QUERY
 
 /*
-- ISOLATION LEVELS & LOCKING
-- TRIGGERS
-- RESOURCE MANAGER
-- INJECTIONS
-- DB SNAPSHOTS
+- DATE
+
 
 
 */
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
--- Example
+-- Example of DATE
+
+-- Example of STRING AGGREGATE

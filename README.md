@@ -25,6 +25,11 @@ For this course you'll need to have any of the following relational database man
 
 
 ## Syllabus
+DB- iLearnDB
+TABLEES- usersLearn1, usersLearn2, usersLeran3, usersLearnModified, 
+COLUMNS - userName, userID, userCity, userAge, userCountry, userVisitTime, userProduct, userLogTime, userPaymentStatus, userPrice, userDetail
+example:
+
 
 ### [level 0: Introduction and Queries](level-0)
 
