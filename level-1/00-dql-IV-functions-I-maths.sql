@@ -7,6 +7,9 @@ There are different MATHEMATICS functions that can be used to query dataset with
     - Bitwise Operators
     - Comparsion Operators
     - Logical Operators
+    - Statement Operators
+        - IF ELSE
+        - WHILE LOOP
    
 - AGGREGRATES FUNCTIONS
     - COUNT
@@ -18,11 +21,8 @@ There are different MATHEMATICS functions that can be used to query dataset with
     - SQRT
     - POWER
     - FLOOR
-    - ROUNDING NUMBER
-- IF ELSE
-- WHILE LOOP
-- RANKING
-
+    - ROUND
+    - RANKING
 
 */
 ---------------------------------------------------------------------------------------------
