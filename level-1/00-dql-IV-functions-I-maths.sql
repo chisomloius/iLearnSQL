@@ -236,8 +236,6 @@ SELECT POWER(4, 2);
 SELECT FLOOR(20.75) AS FloorValue;
 
 -- Example of ROUND
-ROUND (number, decimals, operation=optional)
-
 SELECT ROUND (25.7545, 2) AS RoundValueDefault;
 /* returns 25.76 */
 
