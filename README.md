@@ -72,16 +72,12 @@ example:
 
 
 ## FAQ
-
 ### When Asking for Help Online
-The fatest way to get a self-explanatory answer might be to use [CHAT-GPT3](https://chat.openai.com/chat). 
-Start using the tool [`using CHATGPT-3`](https://chat.openai.com/) channel.
-
-- Follow [these recommendations](https://xxx) when asking for help from Stackeoverflow
-- Follow [these recommendations](https://xxx) when asking for help from Reddit
-- Follow [these recommendations](https://xxx) when asking for help from Twitter
-- Follow [these recommendations](https://xxx) when asking for help from Online forumns
-- Follow [these recommendations](https://xxx) when asking for help from Online forumns
+- The fatest way start using the tool [`using CHATGPT-3`](https://chat.openai.com/) or [`using BARD`](https://bard.google.com/) channel.
+- Check Stackeoverflow [Stackeoverflow](https://xxx)
+- Check Reddit [these recommendations](https://xxx)
+- Check Github [these recommendations](https://xxx) 
+- Check Other forumns [these recommendations](https://xxx)
 
 ### References
 - The [MSSQL DOCS](https://xxx)
@@ -109,7 +105,6 @@ Start using the tool [`using CHATGPT-3`](https://chat.openai.com/) channel.
 - xxxx (https://linkedin.com/in/xxxxx)
 - Sejal Vaidya (https://linkedin.com/in/vaidyasejal)
 - xxxx (https://linkedin.com/in/xxxxx)
-
 
 ### Persons
 - xxxx (https://linkedin.com/in/xxxxx)
